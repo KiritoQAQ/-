@@ -1,0 +1,237 @@
+2018-04-19T03:02:44.079Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-19T03:02:44.084Z - normal: checking language setting...
+2018-04-19T03:02:44.086Z - normal: Language: zh
+2018-04-19T03:02:46.144Z - success: protocol editor-framework registered
+2018-04-19T03:02:46.144Z - success: protocol app registered
+2018-04-19T03:02:46.144Z - success: protocol theme registered
+2018-04-19T03:02:46.144Z - success: protocol packages registered
+2018-04-19T03:02:46.144Z - success: protocol unpack registerred
+2018-04-19T03:02:46.144Z - success: protocol disable-commonjs registerred
+2018-04-19T03:02:46.431Z - normal: connected!
+2018-04-19T03:02:46.439Z - normal: Check project E:\start_project
+2018-04-19T03:02:46.446Z - normal: Initializing Cocos2d
+2018-04-19T03:02:46.969Z - normal: Initializing Asset Database
+2018-04-19T03:02:47.046Z - success: protocol uuid registerred
+2018-04-19T03:02:47.046Z - success: protocol db registerred
+2018-04-19T03:02:47.046Z - success: protocol thumbnail registerred
+2018-04-19T03:02:47.046Z - normal: Loading editor/builtin packages
+2018-04-19T03:02:47.086Z - success: anysdk loaded
+2018-04-19T03:02:47.301Z - success: assets loaded
+2018-04-19T03:02:47.306Z - success: builder loaded
+2018-04-19T03:02:47.309Z - success: cocos-analytics loaded
+2018-04-19T03:02:47.314Z - success: console loaded
+2018-04-19T03:02:47.316Z - success: hierarchy loaded
+2018-04-19T03:02:47.321Z - success: inspector loaded
+2018-04-19T03:02:47.324Z - success: keystore loaded
+2018-04-19T03:02:47.326Z - success: node-library loaded
+2018-04-19T03:02:47.329Z - success: package-asset loaded
+2018-04-19T03:02:47.331Z - success: preferences loaded
+2018-04-19T03:02:47.334Z - success: project-exporter loaded
+2018-04-19T03:02:47.354Z - success: project-importer loaded
+2018-04-19T03:02:47.356Z - success: project-settings loaded
+2018-04-19T03:02:47.361Z - success: ui-kit loaded
+2018-04-19T03:02:47.364Z - success: ui-grid loaded
+2018-04-19T03:02:47.369Z - success: scene loaded
+2018-04-19T03:02:47.369Z - success: sprite-editor loaded
+2018-04-19T03:02:47.374Z - success: store loaded
+2018-04-19T03:02:47.381Z - success: timeline loaded
+2018-04-19T03:02:47.381Z - normal: Loading builtin packages
+2018-04-19T03:02:47.384Z - success: asset-db-debugger loaded
+2018-04-19T03:02:47.386Z - success: code-editor loaded
+2018-04-19T03:02:47.386Z - success: color-picker loaded
+2018-04-19T03:02:47.389Z - success: package-manager loaded
+2018-04-19T03:02:47.396Z - success: sdkbox loaded
+2018-04-19T03:02:47.401Z - success: tester loaded
+2018-04-19T03:02:47.404Z - success: ui-kit-preview-extra loaded
+2018-04-19T03:02:47.404Z - success: ui-kit-preview loaded
+2018-04-19T03:02:47.406Z - success: ui-tree loaded
+2018-04-19T03:02:48.886Z - normal: Initializing project E:\start_project
+2018-04-19T03:02:48.889Z - normal: Loading packages
+2018-04-19T03:02:48.894Z - normal: Watching packages
+2018-04-19T03:02:48.924Z - normal: Run Application
+2018-04-19T03:02:49.564Z - success: preview server running at http://localhost:7456
+2018-04-19T03:02:55.987Z - normal: 1.8.2
+2018-04-19T03:03:01.107Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-19T03:03:01.109Z - normal: Simulator: WORKAREA WIDTH 1358.00, HEIGHT 718.00
+2018-04-19T03:03:01.109Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-19T03:03:01.444Z - normal: Simulator: Ready for GLSL
+2018-04-19T03:03:01.444Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-19T03:03:01.449Z - normal: Simulator: 
+2018-04-19T03:03:01.449Z - normal: Simulator: {
+2018-04-19T03:03:01.452Z - normal: Simulator: 	gl.version: 4.5.0 NVIDIA 350.12
+2018-04-19T03:03:01.452Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-19T03:03:01.452Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-04-19T03:03:01.452Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-19T03:03:01.452Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-19T03:03:01.452Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-19T03:03:01.454Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-19T03:03:01.457Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-19T03:03:01.457Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-04-19T03:03:01.457Z - normal: Simulator: 	gl.renderer: GeForce 840M/PCIe/SSE2
+2018-04-19T03:03:01.457Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-19T03:03:01.457Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-19T03:03:01.457Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-19T03:03:01.459Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-19T03:03:01.459Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-19T03:03:01.459Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-19T03:03:01.459Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-19T03:03:01.459Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-19T03:03:01.459Z - normal: Simulator: }
+2018-04-19T03:03:01.459Z - normal: Simulator: 
+2018-04-19T03:03:01.459Z - normal: Simulator: 
+2018-04-19T03:03:01.462Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-19T03:03:01.475Z - normal: Simulator: Project Config:
+2018-04-19T03:03:01.475Z - normal: Simulator:     project dir: F:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-19T03:03:01.477Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-19T03:03:01.478Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-19T03:03:01.478Z - normal: Simulator:     frame size: 960 x 640
+2018-04-19T03:03:01.479Z - normal: Simulator:     frame scale: 1.00
+2018-04-19T03:03:01.479Z - normal: Simulator:     show console: NO
+2018-04-19T03:03:01.480Z - normal: Simulator:     write debug log: NO ()
+2018-04-19T03:03:01.481Z - normal: Simulator:     listen: 
+2018-04-19T03:03:01.483Z - normal: Simulator:     debugger: none
+2018-04-19T03:03:01.483Z - normal: Simulator:     add searching path:
+2018-04-19T03:03:01.484Z - normal: Simulator: 
+2018-04-19T03:03:01.484Z - normal: Simulator: 
+2018-04-19T03:03:01.484Z - normal: Simulator: 
+2018-04-19T03:03:01.505Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:03:01.505Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-19T03:03:01.506Z - normal: Simulator: ------------------------------------------------
+2018-04-19T03:03:01.507Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-04-19T03:03:01.989Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-04-19T03:03:02.025Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-04-19T03:03:02.025Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-04-19T03:03:02.143Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-04-19T03:03:02.392Z - normal: Simulator: iShow!
+2018-04-19T03:03:02.504Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.423999999999978ms
+2018-04-19T03:03:02.509Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.26099999999996726ms
+2018-04-19T03:03:02.509Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.17200000000002547ms
+2018-04-19T03:03:02.509Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.019000000000005457ms
+2018-04-19T03:03:02.536Z - normal: Simulator: D/jswrapper (125): JS: Activate: 25.360000000000014ms
+2018-04-19T03:03:02.549Z - normal: Simulator: cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+2018-04-19T03:03:07.551Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 15.984000000000378ms
+2018-04-19T03:03:07.552Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.2109999999993306ms
+2018-04-19T03:03:07.553Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.027000000000043656ms
+2018-04-19T03:03:07.553Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 9.984000000000378ms
+2018-04-19T03:03:07.554Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.007999999999810825ms
+2018-04-19T03:03:07.579Z - normal: Simulator: D/jswrapper (125): JS: Activate: 11.9399999999996ms
+2018-04-19T03:03:10.919Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 16.497999999999593ms
+2018-04-19T03:03:10.920Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.4089999999996508ms
+2018-04-19T03:03:10.937Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.05499999999847205ms
+2018-04-19T03:03:10.940Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 8.623999999999796ms
+2018-04-19T03:03:10.941Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.013999999999214197ms
+2018-04-19T03:03:10.962Z - normal: Simulator: D/jswrapper (125): JS: Activate: 22.72099999999955ms
+2018-04-19T03:03:15.252Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 16.54899999999907ms
+2018-04-19T03:03:15.254Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.9219999999986612ms
+2018-04-19T03:03:15.266Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.03499999999985448ms
+2018-04-19T03:03:15.270Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 3.679999999998472ms
+2018-04-19T03:03:15.282Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.009000000000014552ms
+2018-04-19T03:03:15.298Z - normal: Simulator: D/jswrapper (125): JS: Activate: 51.10499999999956ms
+2018-04-19T03:03:23.947Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 16.17399999999907ms
+2018-04-19T03:03:23.949Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.2180000000007567ms
+2018-04-19T03:03:23.951Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.03899999999703141ms
+2018-04-19T03:03:23.957Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 5.441000000002532ms
+2018-04-19T03:03:23.989Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.011999999998806743ms
+2018-04-19T03:03:23.990Z - normal: Simulator: D/jswrapper (125): JS: Activate: 11.048999999999069ms
+2018-04-19T03:03:33.095Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 26.15400000000227ms
+2018-04-19T03:03:33.113Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 4.514999999999418ms
+2018-04-19T03:03:33.114Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.046999999998661224ms
+2018-04-19T03:03:33.114Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 4.786000000000058ms
+2018-04-19T03:03:33.114Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.015000000003055902ms
+2018-04-19T03:03:33.181Z - normal: Simulator: D/jswrapper (125): JS: Activate: 41.53100000000268ms
+2018-04-19T03:03:36.442Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 16.610999999997148ms
+2018-04-19T03:03:36.447Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 3.5869999999995343ms
+2018-04-19T03:03:36.448Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.07800000000133878ms
+2018-04-19T03:03:36.488Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 8.20799999999872ms
+2018-04-19T03:03:36.488Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.014000000002852175ms
+2018-04-19T03:03:36.489Z - normal: Simulator: D/jswrapper (125): JS: Activate: 18.241000000001804ms
+2018-04-19T03:03:41.209Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 16.46600000000035ms
+2018-04-19T03:03:41.234Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 5.166000000004715ms
+2018-04-19T03:03:41.235Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.04799999999522697ms
+2018-04-19T03:03:41.237Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 5.439999999995052ms
+2018-04-19T03:03:41.238Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.013000000006286427ms
+2018-04-19T03:03:41.239Z - normal: Simulator: D/jswrapper (125): JS: Activate: 10.550999999999476ms
+2018-04-19T03:05:08.194Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 16.46700000000419ms
+2018-04-19T03:05:08.203Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.8329999999987194ms
+2018-04-19T03:05:08.205Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.04799999999522697ms
+2018-04-19T03:05:08.210Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 6.836999999999534ms
+2018-04-19T03:05:08.211Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.01699999999254942ms
+2018-04-19T03:05:08.226Z - normal: Simulator: D/jswrapper (125): JS: Activate: 24.176000000006752ms
+2018-04-19T03:05:14.530Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 16.570000000006985ms
+2018-04-19T03:05:14.532Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.0429999999760184ms
+2018-04-19T03:05:14.533Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.03200000000651926ms
+2018-04-19T03:05:14.554Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 4.315000000002328ms
+2018-04-19T03:05:14.554Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.008999999990919605ms
+2018-04-19T03:05:14.555Z - normal: Simulator: D/jswrapper (125): JS: Activate: 6.274999999994179ms
+2018-04-19T03:05:19.195Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 16.598999999987427ms
+2018-04-19T03:05:19.200Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.7919999999867287ms
+2018-04-19T03:05:19.201Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.046000000002095476ms
+2018-04-19T03:05:19.214Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 6.267999999981839ms
+2018-04-19T03:05:19.215Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.013000000006286427ms
+2018-04-19T03:05:19.246Z - normal: Simulator: D/jswrapper (125): JS: Activate: 39.16500000000815ms
+2018-04-19T03:05:23.070Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 17.288000000000466ms
+2018-04-19T03:05:23.075Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 4.529999999998836ms
+2018-04-19T03:05:23.076Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.05499999999301508ms
+2018-04-19T03:05:23.085Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 8.48200000001816ms
+2018-04-19T03:05:23.086Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.015000000013969839ms
+2018-04-19T03:05:23.103Z - normal: Simulator: D/jswrapper (125): JS: Activate: 10.73499999998603ms
+2018-04-19T03:05:45.672Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 16.40700000000652ms
+2018-04-19T03:05:45.679Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 3.198000000003958ms
+2018-04-19T03:05:45.699Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.0629999999946449ms
+2018-04-19T03:05:45.700Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 5.407999999995809ms
+2018-04-19T03:05:45.700Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.01900000000023283ms
+2018-04-19T03:05:45.734Z - normal: Simulator: D/jswrapper (125): JS: Activate: 40.60899999999674ms
+2018-04-19T03:05:51.832Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 16.5570000000007ms
+2018-04-19T03:05:51.835Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.687999999994645ms
+2018-04-19T03:05:51.836Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.03799999997136183ms
+2018-04-19T03:05:51.840Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 4.676000000006752ms
+2018-04-19T03:05:51.841Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.010999999998603016ms
+2018-04-19T03:05:51.876Z - normal: Simulator: D/jswrapper (125): JS: Activate: 33.72599999999511ms
+2018-04-19T03:05:54.932Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 16.5679999999993ms
+2018-04-19T03:05:54.936Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 3.480999999999767ms
+2018-04-19T03:05:54.937Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.042000000015832484ms
+2018-04-19T03:05:54.944Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 4.652999999991152ms
+2018-04-19T03:05:54.946Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.010999999998603016ms
+2018-04-19T03:05:54.994Z - normal: Simulator: D/jswrapper (125): JS: Activate: 49.46699999997509ms
+2018-04-19T03:05:58.099Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 16.565999999991618ms
+2018-04-19T03:05:58.102Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.49299999998766ms
+2018-04-19T03:05:58.104Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.04199999998672865ms
+2018-04-19T03:05:58.110Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 5.962999999988824ms
+2018-04-19T03:05:58.112Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.015000000013969839ms
+2018-04-19T03:05:58.186Z - normal: Simulator: D/jswrapper (125): JS: Activate: 41.22999999998137ms
+2018-04-19T03:06:02.738Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 16.611000000004424ms
+2018-04-19T03:06:02.743Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 3.084999999991851ms
+2018-04-19T03:06:02.744Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.0629999999946449ms
+2018-04-19T03:06:02.773Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 7.323000000003958ms
+2018-04-19T03:06:02.776Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.013000000006286427ms
+2018-04-19T03:06:02.778Z - normal: Simulator: D/jswrapper (125): JS: Activate: 10.097999999998137ms
+2018-04-19T03:06:08.552Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 16.554999999993015ms
+2018-04-19T03:06:08.558Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 3.3760000000183936ms
+2018-04-19T03:06:08.565Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.05100000000675209ms
+2018-04-19T03:06:08.603Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 6.003999999986263ms
+2018-04-19T03:06:08.604Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.014999999984866008ms
+2018-04-19T03:06:08.627Z - normal: Simulator: D/jswrapper (125): JS: Activate: 50.25099999998929ms
+2018-04-19T03:06:12.132Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 16.57200000001467ms
+2018-04-19T03:06:12.134Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.4769999999844003ms
+2018-04-19T03:06:12.135Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.03699999998207204ms
+2018-04-19T03:06:12.151Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 5.114000000001397ms
+2018-04-19T03:06:12.154Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.013000000006286427ms
+2018-04-19T03:06:12.179Z - normal: Simulator: D/jswrapper (125): JS: Activate: 36.96099999998114ms
+2018-04-19T03:06:15.518Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ceafd5e-1613-4c62-8516-d9f11aff4528: 16.44399999998859ms
+2018-04-19T03:06:15.523Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 3.7749999999941792ms
+2018-04-19T03:06:15.524Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.07900000002700835ms
+2018-04-19T03:06:15.548Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 8.38100000002305ms
+2018-04-19T03:06:15.550Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.013999999995576218ms
+2018-04-19T03:06:15.583Z - normal: Simulator: D/jswrapper (125): JS: Activate: 46.48800000001211ms
+2018-04-19T03:06:22.581Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-04-19T03:06:22.583Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 157, all objects: 443
+2018-04-19T03:06:22.658Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 50, all objects: 336
+2018-04-19T03:06:22.661Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 50, all objects: 331
+2018-04-19T03:06:22.708Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 50, all objects: 331
+2018-04-19T03:06:22.711Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:06:22.756Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-04-19T03:06:22.761Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-04-19T03:06:22.761Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-04-19T03:06:22.761Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-04-19T03:06:22.761Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-04-19T03:07:02.494Z - info: shutdown preview server
